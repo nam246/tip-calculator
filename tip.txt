@@ -1,0 +1,5 @@
+<!-- <div class="tip" :class="{'active-tip': isActive}">5%</div>
+          <div class="tip" :class="{'active-tip': isActive}">10%</div>
+          <div class="tip" :class="{'active-tip': isActive}">15%</div>
+          <div class="tip" :class="{'active-tip': isActive}">20%</div>
+          <div class="tip" :class="{'active-tip': isActive}">25%</div> -->
